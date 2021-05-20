@@ -1,0 +1,5 @@
+x=input("Enter the floating number")
+print(x)
+y=float(x)
+print("type of x",type(x),"\ntype of y",type(y))
+input()

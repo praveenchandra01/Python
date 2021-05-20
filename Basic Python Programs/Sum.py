@@ -1,0 +1,5 @@
+x=input("Enter the first number :")
+y=input("Enter the seceond number :")
+s=int(x)+int(y)
+print("Sum is: ",s)
+input()
