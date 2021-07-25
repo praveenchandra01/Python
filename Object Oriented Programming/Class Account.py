@@ -1,4 +1,4 @@
-3class Account:
+class Account:
     rate_of_interest = 3.8  # static variable
 
     def __init__(self, a, b):
